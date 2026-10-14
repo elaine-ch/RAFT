@@ -1,5 +1,5 @@
 # RAFT
-An implementation of the RAFT Consensus protocol targeted towards embedded applications. 
+An implementation of the RAFT Consensus protocol targeted towards embedded applications. Read the paper for details on design and testing [here](./paper.pdf).
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/abijitj/RAFT?machine=standardLinux32gb)
 
